@@ -1,15 +1,21 @@
-# About Me:
+# 💫 About Me:
 **Shreeya Gupta** | 2nd Year CS @ BITS PILANI DUBAI
 
 Passionate full-stack developer who believes in building with both logic and soul. I approach every project with relentless curiosity and won't rest until I've pushed the code to its limits. Currently exploring AI-powered development workflows and always excited to collaborate on impactful projects.
 
-**Open to collaborating or connecting!** Feel free to reach out for project partnerships, tech discussions, or just to say hi.
+**🤝 Open to collaborating or connecting!** Feel free to reach out for project partnerships, tech discussions, or just to say hi.
+
+## 🎯 Experience & Simulations:
+**Tata Group Data Analytics Job Simulation** | *Forage - August 2025*
+- Conducted AI-powered data analytics and strategy development for Financial Services at Tata iQ
+- Built predictive modeling frameworks for customer delinquency risk assessment using GenAI tools
+- Designed ethical AI-driven collections strategy with regulatory compliance and automation planning
 
 
-##  Socials:
+## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreeya.gupta2006@gmail.com) 
 
-#  Tech Stack:
+# 💻 Tech Stack:
 **Languages & Core:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -22,10 +28,14 @@ Passionate full-stack developer who believes in building with both logic and sou
 **AI-Powered Development:**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-181717?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 
-**Certifications:**  
-• Advanced Java (Oxford Software Institute) • Data Science & ML (Aptron Delhi)
+**Data Science & Analytics:**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
-#  GitHub Stats:
+**Certifications & Skills:**  
+• Advanced Java (Oxford Software Institute) • Data Science & ML (Aptron Delhi)  
+• **Core Competencies**: AI Strategy Design, Predictive Modeling, EDA, GenAI Data Insights, Ethical AI Implementation
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shreeya1-pixel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shreeya1-pixel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeya1-pixel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
