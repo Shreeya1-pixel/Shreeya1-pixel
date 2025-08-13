@@ -1,4 +1,4 @@
-# � About Me:
+# About Me:
 **Shreeya Gupta** | 2nd Year CS @ BITS PILANI DUBAI
 
 Passionate full-stack developer who believes in building with both logic and soul. I approach every project with relentless curiosity and won't rest until I've pushed the code to its limits. Currently exploring AI-powered development workflows and always excited to collaborate on impactful projects.
